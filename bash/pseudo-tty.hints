@@ -1,0 +1,2 @@
+socat -d -d pty,raw,echo=0 pty,raw,echo=0
+socat -d -d -d PTY,link=/home/dachief/vmod0,raw,wait-slave PTY,nonblock,raw
