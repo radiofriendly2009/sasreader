@@ -6,7 +6,7 @@ project to connect a raspberry pi or any other linux machine
 to the "euro-sas siren controller"
 can be used by voluntary fire departments in county
 of salzburg/austria (or others which use euro-sas) as addition or replacement
-of the sms interface of feuerwehreinsatz.info
+for the sms interface of feuerwehreinsatz.info
 
 folder bash:
 scripts for testing, creating and deleting virtual pseudo ttys
