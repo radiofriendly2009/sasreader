@@ -3,7 +3,7 @@
 # Daemon Name: sasreader
 #  
 # chkconfig: - 58 74
-# description: start and stop sasreader daemin
+# description: start and stop sasreader daemon
 
 # Source function library.
 . /etc/init.d/functions
